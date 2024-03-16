@@ -4,4 +4,21 @@ And for once, I don't care about what you want
 As long as we keep talking (as long as we're talking)
 I mean, you gotta admit the history's kind of unmatched
 Asian Calvinism, we made it out of that
+<<<<<<< HEAD
 Alif
+=======
+<<<<<<< HEAD
+Sekar
+=======
+<<<<<<< HEAD
+
+IDewa
+=======
+<<<<<<< HEAD
+
+Rama Krisna
+=======
+Rafi
+>>>>>>> 947f738a3856aa42766052b2d38d540a591abd06
+>>>>>>> f062e3066a8c7a937bd8d66ea6bdf9b6f76ee4d5
+>>>>>>> 57b0bd21a68b051b66dfaff2b1b6697ae6f6f7db
