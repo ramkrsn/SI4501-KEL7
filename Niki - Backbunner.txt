@@ -4,5 +4,9 @@ And for once, I don't care about what you want
 As long as we keep talking (as long as we're talking)
 I mean, you gotta admit the history's kind of unmatched
 Asian Calvinism, we made it out of that
+<<<<<<< HEAD
 
 Rama Krisna
+=======
+Rafi
+>>>>>>> 947f738a3856aa42766052b2d38d540a591abd06
