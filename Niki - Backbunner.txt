@@ -5,7 +5,11 @@ As long as we keep talking (as long as we're talking)
 I mean, you gotta admit the history's kind of unmatched
 Asian Calvinism, we made it out of that
 <<<<<<< HEAD
+<<<<<<< HEAD
 Alif
+=======
+Arsyad
+>>>>>>> 9a6da0617db8d90c020e757ac1dc09a50e0cfbc0
 =======
 <<<<<<< HEAD
 Sekar
